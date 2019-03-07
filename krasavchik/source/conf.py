@@ -55,7 +55,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Docs'
+project = 'krasava'
 copyright = '2019, EDI-N'
 author = 'EDI-N'
 
